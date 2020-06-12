@@ -23,6 +23,11 @@ header li {
     cursor: pointer;
 }
 
+footer {
+    height: 15vh;
+    background: rgb(16, 5, 43);
+}
+
 #top-section {
     background: black;
     height: 30vh;
